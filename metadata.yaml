@@ -8,6 +8,9 @@ contributor:
     - Cowell, George H. Sydney
     gutenberg_agent_id: '39130'
     url: http://www.gutenberg.org/2009/agents/39130
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Le Feuvre, Amy
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '3736'
     url: http://www.gutenberg.org/2009/agents/3736
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74939#A-little-maid
 gutenberg_issued: '2024-12-19'
 gutenberg_type: Text
 identifiers:
